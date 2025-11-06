@@ -73,5 +73,6 @@ This work is inspired by:
 
 - [ESPNet](https://github.com/sacmehta/ESPNet)
 - [YOLOP](https://github.com/hustvl/YOLOP)
+- [TwinLite](https://github.com/chequanghuy/TwinLiteNet)
 ```
 ```
